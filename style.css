@@ -1,0 +1,48 @@
+
+body {
+    background-color:#acacac;
+  }
+  .content {
+    padding: 10px 15px;
+    margin: 3% 4% 0 3%;
+    background-color:667;
+    font-size: 15px;
+  }
+  .header {
+    padding: 50px 600px;
+    background-color:669;
+    color: #cacaca;
+    font-size: 50px;
+  }
+  .nav {
+    padding: 20px 630px;
+    background-color:rgb(205, 205, 205);
+    font-size: 50px;
+  }
+  .cnt {
+    padding: 1px 0px;
+    background-color:rgb(73, 73, 73);
+    font-size: 50px;
+    display: flex;
+  }
+  .Mc {
+    padding: 400px 400px;
+    background-color:rgb(69, 69, 69);
+    font-size: 50px;
+  }
+  .S {
+    padding: 200px 100px;
+    background-color:rgb(98, 98, 98);
+    font-size: 50px;
+  }
+  .foother {
+    padding: 20px 630px;
+    background-color:rgb(70, 70, 70);
+    font-size: 50px;
+  }
+  .carousele{
+    margin: 10px;
+   }
+   .carousele div img{
+    width: 100%
+   }
